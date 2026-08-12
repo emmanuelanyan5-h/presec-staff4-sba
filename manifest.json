@@ -1,0 +1,10 @@
+{
+  "name":"PRESEC STAFF 4 BASIC SCHOOL – SBA & Report Card",
+  "short_name":"PRESEC SBA",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fb",
+  "theme_color":"#1d2f87",
+  "orientation":"portrait",
+  "icons":[{"src":"assets/app-icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
